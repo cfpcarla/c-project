@@ -1,0 +1,12 @@
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.csprojAssemblyReference.cache
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.AssemblyInfoInputs.cache
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.AssemblyInfo.cs
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.csproj.CoreCompileInputs.cache
+/Users/carlamedeiros/src/c-project/c-project/bin/Debug/netcoreapp3.1/c-project.deps.json
+/Users/carlamedeiros/src/c-project/c-project/bin/Debug/netcoreapp3.1/c-project.runtimeconfig.json
+/Users/carlamedeiros/src/c-project/c-project/bin/Debug/netcoreapp3.1/c-project.runtimeconfig.dev.json
+/Users/carlamedeiros/src/c-project/c-project/bin/Debug/netcoreapp3.1/c-project.dll
+/Users/carlamedeiros/src/c-project/c-project/bin/Debug/netcoreapp3.1/c-project.pdb
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.dll
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.pdb
+/Users/carlamedeiros/src/c-project/c-project/obj/Debug/netcoreapp3.1/c-project.genruntimeconfig.cache

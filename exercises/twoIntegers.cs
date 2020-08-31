@@ -16,7 +16,7 @@ class GFG
     if (y > 0)
       return (x + multiply(x, y - 1));
 
-    // the case where y is negative
+    // the case where y is negativezA
     if (y < 0)
       return -multiply(x, -y);
 
